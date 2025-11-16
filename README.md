@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Sandeep  
-### AI / ML Enthusiast · Web Developer · Agentic AI · Problem Solver
+### AI / ML Enthusiast · Agentic AI · Web Developer· Problem Solver
 
 ---
 
@@ -61,5 +61,16 @@
 - LinkedIn: [Sandeep Malivad](www.linkedin.com/in/sandeep-malivad-a56230251)
 - GitHub: [github.com/Sandeep-144](https://github.com/Sandeep-144)  
 - Email: malivadsandeep2004@gmail.com  
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+| Languages | Profile Stats |
+|-----------|---------------|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-144&layout=compact&theme=tokyonight" height="150"/> | <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-144&show_icons=true&theme=tokyonight" height="150"/> |
+
+</div>
+
 
 > “Learning never exhausts the mind.” – Leonardo da Vinci  
