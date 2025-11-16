@@ -11,20 +11,28 @@
 
 ## 💻 Tech Stack  
 **Languages & Frameworks:** Python · JavaScript · HTML · CSS · SQL  
-**AI / Data:** Transformers · MarianMT · Streamlit · HuggingFace  
-**Web & Dev:** Streamlit · React (beginner) · REST APIs · Git & GitHub  
+**AI / Data:** Transformers · MarianMT · Streamlit 
+**Web & Dev:** Streamlit · Git & GitHub  
 **Tools / Platforms:** VS Code · Colab · Firebase · Heroku · GitHub Pages  
 **Concepts:** NLP · Multilingual Systems · Chat Apps · PDF / DOCX Parsing
 
 ---
 
-## 🚀 Featured Project  
+## 🚀 Projects 
+
 **[EduAI – Multilingual AI Tutor](https://github.com/Sandeep-144/EduAI)**  
 - Users can ask questions in **English or Gujarati**  
 - Uploads PDF/DOCX to give context-aware answers  
 - Built using Streamlit, Gemini API, MarianMT translation models  
 - Goal: Bridge language gaps in education, especially for regional-language learners  
 - In progress: Add more languages, richer UI, chat memory, RAG (retrieval-augmented-generation)
+
+**[Crop Recommendation System](https://github.com/Sandeep-144/san.crs.github.in)**  
+- Predicts the **best suitable crop** based on soil nutrients & environmental conditions  
+- Takes input values like **N, P, K, pH, Temperature, Humidity, Rainfall**  
+- Built using **Machine Learning (Scikit-learn), Python, and dataset-driven modeling**  
+- Goal: Support farmers with **data-driven decisions** for improved yield & sustainability  
+- In progress: Add **fertilizer suggestion, weather API, region-specific datasets**, and **mobile-friendly UI**
 
 ---
 
