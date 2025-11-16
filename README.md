@@ -4,9 +4,7 @@
 ---
 
 ## 🎯 What I Do  
-- Currently honing my skills in **AI, NLP & large language models (LLMs)**  
-- Building multilingual educational tools — e.g., a tutor in English & Gujarati  
-- Applying my knowledge in real projects and preparing for internships  
+- Currently honing my skills in **AI, NLP & large language models (LLMs)**      
 - Always learning, experimenting, and ready to collaborate
 
 ---
@@ -34,13 +32,5 @@
 - LinkedIn: [Sandeep Malivad](www.linkedin.com/in/sandeep-malivad-a56230251)
 - GitHub: [github.com/Sandeep-144](https://github.com/Sandeep-144)  
 - Email: malivadsandeep2004@gmail.com  
-
----
-
-## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-144&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeep-144&show_icons=true&theme=tokyonight)
-
----
 
 > “Learning never exhausts the mind.” – Leonardo da Vinci  
