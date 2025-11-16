@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋 I'm Sandeep  
+### AI / ML Enthusiast · Full-Stack Developer · Problem Solver
 
-<!--
-**Sandeep-144/Sandeep-144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 What I Do  
+- Currently honing my skills in **AI, NLP & large language models (LLMs)**  
+- Building multilingual educational tools — e.g., a tutor in English & Gujarati  
+- Applying my knowledge in real projects and preparing for internships  
+- Always learning, experimenting, and ready to collaborate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack  
+**Languages & Frameworks:** Python · JavaScript · HTML · CSS · SQL  
+**AI / Data:** Transformers · MarianMT · Streamlit · HuggingFace  
+**Web & Dev:** Streamlit · React (beginner) · REST APIs · Git & GitHub  
+**Tools / Platforms:** VS Code · Colab · Firebase · Heroku · GitHub Pages  
+**Concepts:** NLP · Multilingual Systems · Chat Apps · PDF / DOCX Parsing
+
+---
+
+## 🚀 Featured Project  
+**[EduAI – Multilingual AI Tutor](https://github.com/Sandeep-144/EduAI)**  
+- Users can ask questions in **English or Gujarati**  
+- Uploads PDF/DOCX to give context-aware answers  
+- Built using Streamlit, Gemini API, MarianMT translation models  
+- Goal: Bridge language gaps in education, especially for regional-language learners  
+- In progress: Add more languages, richer UI, chat memory, RAG (retrieval-augmented-generation)
+
+---
+
+## 📬 Let’s Connect  
+- LinkedIn: [www.linkedin.com/in/sandeep-malivad-a56230251]  
+- GitHub: [github.com/Sandeep-144](https://github.com/Sandeep-144)  
+- Email: malivadsandeep2004@gmail.com  
+
+---
+
+## 📊 GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-144&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeep-144&show_icons=true&theme=tokyonight)
+
+---
+
+> “Learning never exhausts the mind.” – Leonardo da Vinci  
