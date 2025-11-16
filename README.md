@@ -32,7 +32,12 @@
 - Takes input values like **N, P, K, pH, Temperature, Humidity, Rainfall**  
 - Built using **Machine Learning (Scikit-learn), Python, and dataset-driven modeling**  
 - Goal: Support farmers with **data-driven decisions** for improved yield & sustainability  
-- In progress: Add **fertilizer suggestion, weather API, region-specific datasets**, and **mobile-friendly UI**
+
+**[Customer Churn Prediction](https://github.com/Sandeep-144/ccp)**  
+- Predicts whether a **customer is likely to leave (churn)** based on historical behavior and service usage  
+- Uses **Machine Learning classification models** to analyze patterns and identify churn triggers  
+- Built using **Python, Pandas, NumPy, Scikit-learn** with data preprocessing & feature engineering  
+- Goal: Help businesses **retain customers, reduce losses, and take proactive retention actions** 
 
 ---
 
