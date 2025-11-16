@@ -31,7 +31,7 @@
 ---
 
 ## 📬 Let’s Connect  
-- LinkedIn: [www.linkedin.com/in/sandeep-malivad-a56230251]  
+- LinkedIn: [Sandeep Malivad](www.linkedin.com/in/sandeep-malivad-a56230251)
 - GitHub: [github.com/Sandeep-144](https://github.com/Sandeep-144)  
 - Email: malivadsandeep2004@gmail.com  
 
