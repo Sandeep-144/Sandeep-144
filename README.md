@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Sandeep  
-### AI / ML Enthusiast · Full-Stack Developer · Problem Solver
+### AI / ML Enthusiast · Web Developer · Agentic AI · Problem Solver
 
 ---
 
@@ -9,12 +9,22 @@
 
 ---
 
-## 💻 Tech Stack  
-**Languages & Frameworks:** Python · JavaScript · HTML · CSS · SQL  
-**AI / Data:** Transformers · MarianMT · Streamlit 
-**Web & Dev:** Streamlit · Git & GitHub  
-**Tools / Platforms:** VS Code · Colab · Firebase · Heroku · GitHub Pages  
-**Concepts:** NLP · Multilingual Systems · Chat Apps · PDF / DOCX Parsing
+## 🛠️ Technical Skills
+
+**👨‍💻 Programming**
+- Python, Java, C, SQL, HTML, CSS, JavaScript
+
+**🤖 Machine Learning & Deep Learning**
+- Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, SMOTE, ANN, VAE
+
+**🧰 Tools & Platforms**
+- Git, VS Code, Google Colab, Power BI, Agile (Scrum/Kanban), CI/CD (Basics)
+
+**🗄️ Databases**
+- MySQL
+
+**🔍 Data Science & ML Workflow Skills**
+- EDA, Feature Engineering, Model Evaluation (F1-Score, ROC-AUC), Cross-Validation, Deployment (Streamlit)
 
 ---
 
@@ -27,17 +37,23 @@
 - Goal: Bridge language gaps in education, especially for regional-language learners  
 - In progress: Add more languages, richer UI, chat memory, RAG (retrieval-augmented-generation)
 
-**[Crop Recommendation System](https://github.com/Sandeep-144/san.crs.github.in)**  
-- Predicts the **best suitable crop** based on soil nutrients & environmental conditions  
-- Takes input values like **N, P, K, pH, Temperature, Humidity, Rainfall**  
-- Built using **Machine Learning (Scikit-learn), Python, and dataset-driven modeling**  
-- Goal: Support farmers with **data-driven decisions** for improved yield & sustainability  
-
 **[Customer Churn Prediction](https://github.com/Sandeep-144/ccp)**  
 - Predicts whether a **customer is likely to leave (churn)** based on historical behavior and service usage  
 - Uses **Machine Learning classification models** to analyze patterns and identify churn triggers  
 - Built using **Python, Pandas, NumPy, Scikit-learn** with data preprocessing & feature engineering  
-- Goal: Help businesses **retain customers, reduce losses, and take proactive retention actions** 
+- Goal: Help businesses **retain customers, reduce losses, and take proactive retention actions**
+
+**[Crop Recommendation System](https://github.com/Sandeep-144/san.crs.github.in)**  
+- Predicts the **best suitable crop** based on soil nutrients & environmental conditions  
+- Takes input values like **N, P, K, pH, Temperature, Humidity, Rainfall**  
+- Built using **Machine Learning (Scikit-learn), Python, and dataset-driven modeling**  
+- Goal: Support farmers with **data-driven decisions** for improved yield & sustainability   
+
+**[Intelligent News Curator](https://github.com/Sandeep-144/intelligent_news_curator)**  
+- Automatically **fetches, filters, and presents relevant news** based on user preference or topic interest  
+- Uses **NLP and news API processing** to highlight meaningful, noise-free information  
+- Built using **Python, APIs, data filtering, and text processing techniques**  
+- Goal: Enable users to **save time, avoid information overload, and consume only high-value news**  
 
 ---
 
