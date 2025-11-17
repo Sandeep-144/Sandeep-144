@@ -62,15 +62,14 @@
 - GitHub: [github.com/Sandeep-144](https://github.com/Sandeep-144)  
 - Email: malivadsandeep2004@gmail.com  
 
-## 📊 GitHub Insights
+## 📊 GitHub Statistics
 
-<div align="center">
+### 🔝 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-144&layout=compact&theme=tokyonight)
 
-| Languages | Profile Stats |
-|-----------|---------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-144&layout=compact&theme=tokyonight" height="150"/> | <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-144&show_icons=true&theme=tokyonight" height="150"/> |
+### 🏆 Contribution & Activity Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeep-144&show_icons=true&theme=tokyonight)
 
-</div>
 
 
 > “Learning never exhausts the mind.” – Leonardo da Vinci  
