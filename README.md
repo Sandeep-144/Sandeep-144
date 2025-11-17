@@ -67,9 +67,4 @@
 ### 🔝 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-144&layout=compact&theme=tokyonight)
 
-### 🏆 Contribution & Activity Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeep-144&show_icons=true&theme=tokyonight)
-
-
-
 > “Learning never exhausts the mind.” – Leonardo da Vinci  
